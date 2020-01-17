@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+    epress is a framework
+
 - [ ] Describe Middleware?
+
+    Is a function that allows controlability of the data flow. Middleware helps developers build applications more efficiently.
 
 - [ ] Describe a Resource?
 
+    Is the data on an api
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+    It can return a successful message. In our case we send json messages.
+
 - [ ] How can we partition our application into sub-applications?
+
+    Seperate them by componenets by use case.
 
 ## Minimum Viable Product
 
